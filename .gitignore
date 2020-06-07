@@ -1,0 +1,26 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Week2_DataAnalysis/Neptune/.vs/Neptune/v15
+/Week2_DataAnalysis/Neptune/Neptune/obj
+/Week2_DataAnalysis/Neptune/Neptune/bin
+/Week2_DataAnalysis/.ipynb_checkpoints
+**/*.o
+**/bin/*
+/Week3_AnalyzeTemplates/.vscode/ipch
+/Week3_AnalyzeTemplates/CppRefresher/.vs
+/Week3_AnalyzeTemplates/CppRefresher/src/.vs/CppRefresher/v16
+/Week3_AnalyzeTemplates/CppRefresher/src/Debug
+**/~*.docx
+**/~*.pptx
+**/~*.tmp
+**/a.out
+**/klee-last
+**/klee-out-*
+**/Klee/tutorials/*.bc
+**/Klee/tutorials/get_sign
+**/.vscode
+**/obj/*
+**/.vs/*
+**/~*.xlsx

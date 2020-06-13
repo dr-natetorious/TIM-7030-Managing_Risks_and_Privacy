@@ -2,7 +2,7 @@
 
 ## Analysis of Affordance, Time, and Adaptation in the Assessment of Industrial Control System Cybersecurity Risk (2017)
 
-Busby JS, Green B, Hutchison D. Analysis of Affordance, Time, and Adaptation in the Assessment of Industrial Control System Cybersecurity Risk. Risk Analysis: An International Journal. 2017;37(7):1298-1314. [https://doi-org.proxy1.ncu.edu/10.1111/risa.12681]( https://doi-org.proxy1.ncu.edu/10.1111/risa.12681). Accessed June 9, 2020. [AnalysisAffordanceControlSystem.pdf](AnalysisAffordanceControlSystem.pdf).
+Busby JS, Green B, Hutchison D. Analysis of Affordance, Time, and Adaptation in the Assessment of Industrial Control System Cybersecurity Risk. Risk Analysis: An International Journal. 2017;37(7):1298-1314. [https://doi-org.proxy1.ncu.edu/10.1111/risa.12681](https://doi-org.proxy1.ncu.edu/10.1111/risa.12681). Accessed June 9, 2020. [AnalysisAffordanceControlSystem.pdf](AnalysisAffordanceControlSystem.pdf).
 
 ## Components and challenges of integrated cyber risk management (2015)
 

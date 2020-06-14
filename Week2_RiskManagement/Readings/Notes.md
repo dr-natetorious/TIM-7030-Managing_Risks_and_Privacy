@@ -42,22 +42,38 @@ For example, if an attacker wants to break into your house, breaking the window 
 
 Kosub T. Components and challenges of integrated cyber risk management. Zeitschrift für die gesamte Versicherungswissenschaft. 2015;104(5):615. [https://doi.org/10.1007/s12297-015-0316-8](https://doi.org/10.1007/s12297-015-0316-8). Accessed June 9, 2020. [ComponentsChallengesIntegration.pdf](ComponentsChallengesIntegration.pdf).
 
+This journal discusses the ISO/27000 risk management philosophy and some of the challenges with that it tries to solve.  Generally speaking, businesses are not very good at assessing the risk that comes from either `cyber risk and cyber crimes`.  These are two distinct categories of issues and both can result in significant loss of productivity, monetary resources, and public relations.
+
+Similar to other papers, the notion of risk transference, avoidance, and acceptance -- as a mechanism for living with undue risk.  They also lay out the case for a business continuity strategy that includes an `IT contingency` ammendment for when things get really. 
+
 ## Cyber Gurus': A rhetorical analysis of the language of cybersecurity specialists and the implications for security policy and critical infrastructure protection (2015)
 
 Quigley, K., Burns, C., & Stallard, K. (2015). ‘Cyber Gurus': A rhetorical analysis of the language of cybersecurity specialists and the implications for security policy and critical infrastructure protection. Government Information Quarterly Volume 32, Issue 2, April 2015, Pages 108-117. [https://doi.org/10.1016/j.giq.2015.02.001](https://doi.org/10.1016/j.giq.2015.02.001). [CyberGurusLanguage.pdf](CyberGurusLanguage.pdf).
+
+This article was reviewed during [TIM-8301 Week5](https://github.com/dr-natetorious/TIM-8301-Principals_of_CyberSecurity/blob/master/Week5_AppraiseRisk/Readings/README.md#cyber-gurus-a-rhetorical-analysis-of-the-language-of-cybersecurity-specialists-and-the-implications-for-security-policy-and-critical-infrastructure-protection-2015) and discusses the stylistic choices that authors use to sounds intelligent or increase the chances of click-bait.
 
 ## COBIT Helps Organizations Meet Performance and Compliance Requirements (2015)
 
 Radhakrishnan, S. (2015). COBIT Helps Organizations Meet Performance and Compliance Requirements. COBIT Focus, 1–5. [https://search-ebscohost-com.proxy1.ncu.edu/login.aspx?direct=true&db=bth&AN=102026122&site=eds-live](https://search-ebscohost-com.proxy1.ncu.edu/login.aspx?direct=true&db=bth&AN=102026122&site=eds-live). [COBIT_Helps_Orgs.pdf](COBIT_Helps_Orgs.pdf).
 
+The authors describe how COBIT works with any organizational structure because it is a collection of indstury best practices (see [TIM-8301 Week5](https://github.com/dr-natetorious/TIM-8301-Principals_of_CyberSecurity/blob/master/Week5_AppraiseRisk/Readings/README.md#towards-a-theoretical-foundation-of-it-governance---the-cobit-5-case-2015) for additional info).  They compare various other frameworks like program management and IT risk management to show how the ideas are easily map between systems. 
+
 ## How to Protect Critical Infrastructure From Hackers (2015)
 
 Virgillito, D. (2015). How to Protect Critical Infrastructure From Hackers. CIO Insight, 1. [https://search-ebscohost-com.proxy1.ncu.edu/login.aspx?direct=true&db=bth&AN=103356879&site=eds-live](https://search-ebscohost-com.proxy1.ncu.edu/login.aspx?direct=true&db=bth&AN=103356879&site=eds-live). [ProtectCriticalInfra.pdf](ProtectCriticalInfra.pdf).
 
+The authors propose a roadmap to Enterprise Security Management (ESM) that introduces base systems like
+
+- Patch Management
+- Threat modeling
+- Architectual Principals
+- Risk Management
+- Mobile Safety
+- Software Defined Networking and IoT
+
 ## ASSESSING AND RE-SETTING CULTURE IN ENTERPRISE RISK MANAGEMENT (2018)
 
 WESTON, H., CONKLIN, T. A., & DROBNIS, K. (2018). Assessing and Re-Setting Culture in Enterprise Risk Management. Assurances et Gestion Des Risques, 85(1/2), 131–166. [https://doi-org.proxy1.ncu.edu/10.7202/1051319ar](https://doi-org.proxy1.ncu.edu/10.7202/1051319ar). [AssessCulture.pdf](AssessCulture.pdf).
-
 
 The authors discuss the need to target organizational culture when making changes to the process and protections.  When culture does not change is results in compliance with the specific policy, nothing more and nothing less.  Enterprise Risk management as a field has historically neglected the necessity of cultural changes and this has led to numerous failed programs.
 

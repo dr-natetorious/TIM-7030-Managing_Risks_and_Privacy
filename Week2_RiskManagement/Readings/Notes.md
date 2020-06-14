@@ -6,7 +6,7 @@ Busby JS, Green B, Hutchison D. Analysis of Affordance, Time, and Adaptation in 
 
 > More generally, any attempt to intervene in a complex adaptive system, in order to control risk, is likely to produce an unexpected and perhaps self-defeating response.
 
-The authors provide several examples of how people adapt to protections by finding strategies that lead to a path of least resistence.  For instance, longer passwords are written down, and complex processes to report issues discourages people speaking up.  This results in a competition between (adversaries, maximizing risk) vs (legitimate users, maintaining convienence) vs (risk managers, minimizing risk).
+The authors provide several examples of how people adapt to protections by finding strategies that lead to a path of least resistence.  For instance, longer passwords are written down, and complex processes to report issues discourages people speaking up.  This results in a competition between (adversaries, maximizing risk) vs (legitimate users, maintaining convenience) vs (risk managers, minimizing risk).
 
 ### How do they model these competing relationships
 
@@ -44,7 +44,7 @@ Kosub T. Components and challenges of integrated cyber risk management. Zeitschr
 
 This journal discusses the ISO/27000 risk management philosophy and some of the challenges with that it tries to solve.  Generally speaking, businesses are not very good at assessing the risk that comes from either `cyber risk and cyber crimes`.  These are two distinct categories of issues and both can result in significant loss of productivity, monetary resources, and public relations.
 
-Similar to other papers, the notion of risk transference, avoidance, and acceptance -- as a mechanism for living with undue risk.  They also lay out the case for a business continuity strategy that includes an `IT contingency` ammendment for when things get really. 
+Similar to other papers, the notion of risk transference, avoidance, and acceptance -- as a mechanism for living with undue risk.  They also lay out the case for a business continuity strategy that includes an `IT contingency` ammendment for when things get really.
 
 ## Cyber Gurus': A rhetorical analysis of the language of cybersecurity specialists and the implications for security policy and critical infrastructure protection (2015)
 

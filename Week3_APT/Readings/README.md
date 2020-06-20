@@ -82,3 +82,9 @@ OCTAVE (Operationally Critical Threat, Asset, and Vulnerability Evaluation) is a
 ## A study on security framework against advanced persistent threat (2017)
 
 Zhang Q, Li H, Hu J. A study on security framework against advanced persistent threat. 2017 7th IEEE International Conference on Electronics Information and Emergency Communication (ICEIEC), Electronics Information and Emergency Communication (ICEIEC), 2017 7th IEEE International Conference on. July 2017:128-131. [https://doi.org/10.1109/ICEIEC.2017.8076527](https://doi.org/10.1109/ICEIEC.2017.8076527). [SecurityFramework_APT.pdf](SecurityFramework_APT.pdf)
+
+The authors propose a system that relies on OpenIOC (Indicators of Compromoise), an XML-based data exchange format for sharing threat information.  According to [this video](https://youtu.be/BH_k_0yNpRA) these messages contain AND/OR predicates that describe malware or an attack or whatever.
+
+Tooling can generate these signatures for intrusion detection systems to detect APT.
+
+![security_framework.png](security_framework.png)

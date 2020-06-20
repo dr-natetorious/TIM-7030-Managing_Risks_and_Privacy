@@ -62,9 +62,22 @@ They state that using HoneyPots/Nets is not an effective strategy because these 
 
 Many IDS monitoring systems run as user mode processes, and this makes them vulnerable to various attacks.  More advanced systems rely on either kernel mode structures or Trusted Platform Module (TPM) to hold various signatures.  TripWire is discussed as being in the middle with signatures stored in TPM but periodically verifying those values as a user mode process.
 
-## Assessment of information system risk management with Octave Allegro at Education Institution (2018)
+## Assessment of information system risk management with OCTAVE Allegro at Education Institution (2018)
 
 Suroso, J. S., & Fakhrozi, M. A. (2018). Assessment of information system risk management with Octave Allegro at Education Institution. Procedia Computer Science Volume 135, 2018, Pages 202-213. [https://doi.org/10.1016/j.procs.2018.08.167](https://doi.org/10.1016/j.procs.2018.08.167). [Assess_Risk_OctaveAllegro.pdf](Assess_Risk_OctaveAllegro.pdf).
+
+OCTAVE (Operationally Critical Threat, Asset, and Vulnerability Evaluation) is a methodology used to identify and evaluate information security risks. The use of OCTAVE itself is intended to help the company in terms of:
+
+- Develop a qualitative risk evaluation criteria that describe the company's operational risk tolerance
+- Identify the assets that are important to the company's mission
+- Identify vulnerabilities and threats to those assets
+- Determine and evaluate the possible consequences for the company if the threat occurred.
+
+![octave.png](octave.png)
+
+### What are the steps of OCTAVE
+
+![octave_steps.png](octave_steps.png)
 
 ## A study on security framework against advanced persistent threat (2017)
 

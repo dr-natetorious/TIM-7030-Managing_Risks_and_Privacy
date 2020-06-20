@@ -40,9 +40,27 @@ A colleciton of strategies exist for preventing APT by introducing entropy.  For
 
 Krombholz, K., Hobel, H., Huber, M., & Weippl, E. (2015). Advanced social engineering attacks. Journal of Information Security and Applications Volume 22, June 2015, Pages 113-122. [https://doi.org/10.1016/j.jisa.2014.09.005](https://doi.org/10.1016/j.jisa.2014.09.005). [advanced_social_engineering_attacks.pdf](advanced_social_engineering_attacks.pdf)
 
+Social engineering encompasses strategies for manipulating humans into performing actions on our behalf.  For instance, if you can get them to run a script, click a link or bypass process, then the end result is an elevation of priviledge.  The attacker is able to perform some action in a secondary security context and thus system integrity breaks down.  In the context of APT this is an efficient mechnaism for getting on to the network, versus bruteforcing the firewall or hoping to discover some zero-day attack.
+
+![social_engineering_taxonomy.png](social_engineering_taxonomy.png)
+
 ## Surviving advanced persistent threats in a distributed environment - Architecture and analysis (2015)
 
 Mehresh, Ruchika, and Shambhu Upadhyaya. 2015. “Surviving Advanced Persistent Threats in a Distributed Environment - Architecture and Analysis.” Information Systems Frontiers 17 (5): 987. [https://search-ebscohost-com.proxy1.ncu.edu/login.aspx?direct=true&db=edb&AN=109474409&site=eds-live](https://search-ebscohost-com.proxy1.ncu.edu/login.aspx?direct=true&db=edb&AN=109474409&site=eds-live). [Surviving_APT.pdf](Surviving_APT.pdf)
+
+The authors describe a system for detecting and responding to APT in a stealthy manner.  It seems that a lot of their technology centers around ensuring critical resources cannot be tampered.  They accomplish this feat by storing signatures in Trusted Platform Module (TPM) modules and then provisioning several replicas.  If a coordinator detects that a replica is in an erroneous state, then it can stop accepting messages from that instance.
+
+The solution encounters roughly 10% communication overhead due to the RSA encryption operations that need to validate each message.
+
+![survivor.png](survivor.png)
+
+### Why are honey pots ineffective
+
+They state that using HoneyPots/Nets is not an effective strategy because these are less effective against APT -- which are less likely to fall for the trap.  When they do fall for it, this might raise an alert but the attackers can laterally move across the network to continue evading discover (e.g., jump to a different workstation).
+
+### Why are IDS systems ineffective
+
+Many IDS monitoring systems run as user mode processes, and this makes them vulnerable to various attacks.  More advanced systems rely on either kernel mode structures or Trusted Platform Module (TPM) to hold various signatures.  TripWire is discussed as being in the middle with signatures stored in TPM but periodically verifying those values as a user mode process.
 
 ## Assessment of information system risk management with Octave Allegro at Education Institution (2018)
 

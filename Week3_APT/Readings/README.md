@@ -88,3 +88,32 @@ The authors propose a system that relies on OpenIOC (Indicators of Compromoise),
 Tooling can generate these signatures for intrusion detection systems to detect APT.
 
 ![security_framework.png](security_framework.png)
+
+## Policy vs Standard vs Control vs Procedure (2020)
+
+Compliance Forge (2020). Policy vs Standard vs Control vs Procedure. [https://www.complianceforge.com/word-crimes/policy-vs-standard-vs-control-vs-procedure](https://www.complianceforge.com/word-crimes/policy-vs-standard-vs-control-vs-procedure). [Policies_vs_Standards.pdf](Policies_vs_Standards.pdf).
+
+The author provide a comparison of different aspects of a policy document and articulate differences between the good, bad, and ugly.
+
+This information is directly useful for the second part of the assignment.
+
+![policy_pyramid.png](policy_pyramid.png)
+
+## Cyber Security Lifecycle (2017)
+
+Sadgune, R; Sadgune, A (2017). Cyber Security Lifecycle. HackForLab. [https://hackforlab.com/cyber-security-lifecycle/](https://hackforlab.com/cyber-security-lifecycle/).  Accessed Date 6/1/2020. [security_lifecycle.pdf](security_lifecycle.pdf).
+
+The author propose a feedback loop that includes steps:
+
+- Identify: Determine which threats exists against what resources
+- Protect: Apply risk mitigation strategies for those systems
+- Detect: Provision systems that look for failures and erroneous behaviors
+- Respond: Execute indicident response workflows to determine next steps
+- Recover: Delivering on the response strategy and confirm the incident is resolved
+- Repeat: Given these new threats identify other areas of concern
+
+## Palo Alto Network - Security Lifecycle Review (SLR)(2018)
+
+Westcon-Comstor(2018). Palo Alto Network - Security Lifecycle Review. YouTube. Accessed 6/21/2020. [https://youtu.be/agf1BdOHmMI](https://youtu.be/agf1BdOHmMI).
+
+Palo Alto approaches SLR by examining the network traffic, employee behavior, vulnerability assessment, threats, and high risk operations.  This information feeds into a comprehensive report that can be prioritized and implemented.

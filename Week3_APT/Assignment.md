@@ -48,11 +48,16 @@ Upload your workflow diagram and document file, and click the Submit to Dropbox 
 
 ## Part II: Outline Governance Provisions for Security Policies, Standards, and Procedures
 
-Cybersecurity threats have continued to pose significant problems to multiple organizations, and most organizations have concentrated their efforts to fight cyber-threats from external sources. But most organizations forget to address internal human errors. Although human error can never be eliminated, incidents can be reduced by establishing clear cybersecurity, policies, standards, procedures, guidelines, and providing regular employee training.
+Cybersecurity threats have continued to pose significant problems to multiple organizations, and most organizations have `concentrated their efforts to fight cyber-threats from external sources`. But most organizations forget to `address internal human errors`. Although human error can never be eliminated, incidents can be reduced by establishing clear cybersecurity, policies, standards, procedures, guidelines, and providing regular employee training.
 
-The CEO of NCU-FSB has stated that the recent cybersecurity attacks on the organization’s resources were due to internal errors from HR employees. As the newly employed chief information security officer (CISO) for NCU-FSB, the CEO has asked you to present a summary of the control recommendations on cybersecurity based on the risk management model adopted or customized, the reasons for this selection, and provide an overview to the board of trustees of the organization.
+The CEO of NCU-FSB has stated that the recent cybersecurity attacks on the organization’s resources were due to internal errors from HR employees. As the newly employed chief information security officer (CISO) for NCU-FSB, the CEO has asked you to present:
 
-### Instructions
+- a summary of the control recommendations on cybersecurity
+- based on the risk management model adopted or customized,
+- the reasons for this selection,
+- and provide an overview to the board of trustees of the organization.
+
+### Do This
 
 For this assignment, you must develop a report that outlines the IT governance provisions for security policies, standards, and procedures. Your outline will be included in your signature assignment. A sample report is provided in the weekly resources.
 

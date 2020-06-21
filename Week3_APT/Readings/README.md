@@ -108,7 +108,7 @@ The author propose a feedback loop that includes steps:
 - Identify: Determine which threats exists against what resources
 - Protect: Apply risk mitigation strategies for those systems
 - Detect: Provision systems that look for failures and erroneous behaviors
-- Respond: Execute indicident response workflows to determine next steps
+- Respond: Execute incident response workflows to determine next steps
 - Recover: Delivering on the response strategy and confirm the incident is resolved
 - Repeat: Given these new threats identify other areas of concern
 

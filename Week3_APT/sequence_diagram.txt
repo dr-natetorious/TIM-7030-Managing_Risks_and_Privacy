@@ -1,0 +1,14 @@
+title NCU-F Compromise
+
+APT->Employee:Sends phishing\nemail
+Employee->Workstation:Installs C&C
+Employee<--Workstation: Ok
+APT<--Workstation: Notifies availability
+APT->Workstation: Gains Access
+Workstation->LAN: Monitors traffic
+Workstation<--LAN: Sees credentials
+Workstation->Internal Services: Authenticates with Credentials
+Workstation<--Internal Services: Ok
+Internal Services->Internal Services: Local EoP
+Internal Services->Connected Systems: Authenticates
+Internal Services<--Connected Systems: Ok

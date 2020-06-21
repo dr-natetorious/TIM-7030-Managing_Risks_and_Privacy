@@ -2,7 +2,21 @@
 
 ## Part I: Develop Steps to Avoid or Control Persistent Attacks
 
-You are employed as a cybersecurity analyst at NCU-FSB, a financial organization that has invested in establishing a security program but is in the process of developing a risk management strategy. This means that there is a critical need for implementing risk reduction strategies to prevent intrusions or attacks, like monitoring and response strategies, security awareness, training, and systems administration tools. In the second month of working for the organization, a user received a phishing email from a foreign country. After opening and reading the email, the user’s computer was compromised. Using ARP caching, the attacker was able to sniff password hashes and crack them, which escalated to spear-phishing and whaling attacks (domino effect). The attack or intrusions have been there for months, making it an Advanced Persistent Threat (APT) related attack. ARP stands for address resolution protocol, used to connect layer 2 of the OSI model, data link layer with layer 3 of the OSI model, network.
+You are `employed as a cybersecurity analyst` at NCU-FSB, a financial organization that has invested in establishing a security program but is in the process of developing a risk management strategy. This means that there is a critical need for `implementing risk reduction strategies to prevent intrusions or attacks`, like 
+
+- monitoring and response strategies,
+- security awareness, training,
+- and systems administration tools.
+
+In the second month of working for the organization,
+
+- a user received a phishing email from a foreign country.
+- After opening and reading the email, the user’s computer was compromised.
+- Using ARP caching, the attacker was able to sniff password hashes and crack them,
+- which escalated to spear-phishing and whaling attacks (domino effect).
+- The attack or intrusions have been `there for months`, making it an Advanced Persistent Threat (APT) related attack.
+
+ARP stands for address resolution protocol, used to connect layer 2 of the OSI model, data link layer with layer 3 of the OSI model, network.
 
 ### Instructions
 

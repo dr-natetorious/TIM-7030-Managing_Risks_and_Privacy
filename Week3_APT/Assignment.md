@@ -10,20 +10,19 @@ For this assignment, you must create a technical paper with an illustrated workf
 
 This workflow diagram will be included in your corporate risk management plan. You can use software tools like MS-Visio, Edraw, Lucidchart, LibreOffice, or any drawing tool to create your workflow diagram or infographic.
 
-1. Your illustrated workflow should include the following:
-- Steps to assess, respond and mitigate a threat
-- Assessment tools and measures
-- Checklist to certify perimeter protection
-
-2. Your paper should include:
-- Nature of the agency or business
-- Framework to be followed
-- Rationale for the adoption of the selected framework
-- Relevant laws or standards
-- Steps for framework adoption
-- Changes needed to fit the operations or services
-- Best practices for security and risk mitigation
-- Software solution recommendations
+- Your illustrated workflow should include the following:
+  - Steps to assess, respond and mitigate a threat
+  - Assessment tools and measures
+  - Checklist to certify perimeter protection
+- Your paper should include:
+  - Nature of the agency or business
+  - Framework to be followed
+  - Rationale for the adoption of the selected framework
+  - Relevant laws or standards
+  - Steps for framework adoption
+  - Changes needed to fit the operations or services
+  - Best practices for security and risk mitigation
+  - Software solution recommendations
 
 Length: 2-3 page academic paper
 

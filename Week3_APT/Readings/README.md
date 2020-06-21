@@ -2,7 +2,7 @@
 
 ## A Survey on Advanced Persistent Threats: Techniques, Solutions, Challenges, and Research Opportunities (2019)
 
-Alshamrani A, Myneni S, Chowdhary A, Huang D. A Survey on Advanced Persistent Threats: Techniques, Solutions, Challenges, and Research Opportunities. IEEE Communications Surveys & Tutorials, Communications Surveys & Tutorials, IEEE, IEEE Commun Surv Tutorials. 2019;21(2):1851-1877. [https://doi.org/10.1109/COMST.2019.2891891](https://doi.org/10.1109/COMST.2019.2891891). [Survey_APT_Techniques_Solutions_Challenges.pdf](Survey_APT_Techniques_Solutions_Challenges.pdf).
+Alshamrani A, Myneni S, Chowdhary A, Huang D.(2019) A Survey on Advanced Persistent Threats: Techniques, Solutions, Challenges, and Research Opportunities. IEEE Communications Surveys & Tutorials. 2019;21(2):1851-1877. [https://doi.org/10.1109/COMST.2019.2891891](https://doi.org/10.1109/COMST.2019.2891891). [Survey_APT_Techniques_Solutions_Challenges.pdf](Survey_APT_Techniques_Solutions_Challenges.pdf).
 
 > Advanced Persistent Threats are threats that involve determined and persistent well-funded attackers with goals to gain crucial data or impede critical components of their target organization or government. Unlike targeted attacks, these attacks involve use of sophisticated tools and/or techniques.
 

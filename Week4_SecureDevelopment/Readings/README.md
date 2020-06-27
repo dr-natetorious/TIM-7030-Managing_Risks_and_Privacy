@@ -4,6 +4,35 @@
 
 Al-Haidari, Fahd & AL-Dahasi, Ezaz. (2019). New Approach to Determine DDoS Attack Patterns on SCADA System Using Machine Learning. 1-6. [https://doi.org/10.1109/ICCISci.2019.8716432](https://doi.org/10.1109/ICCISci.2019.8716432). [DDoS_Scada.pdf](DDoS_Scada.pdf).
 
+The authors use the [KDDCup'99 dataset](http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html) for comparison between J48 (decision trees), Naive Bayes, and Random Forests classifications.  Their objective is to detect DDoS attacks for both high and low rate scenarios.  This is accomplished by having two filters:
+
+- Metric 1: Average Filter (high rate)
+- Metric 2: [Discrete Fourier Transform](https://en.wikipedia.org/wiki/Discrete_Fourier_transform) (low rate)
+
+![ddos_detection_methods.png](ddos_detection_methods.png)
+
+### What features did they use
+
+From the [available features](http://kdd.ics.uci.edu/databases/kddcup99/kddcup.names) they used:
+
+|Variable No| Features|
+|-----------|---------|
+|1 Duration|
+|2 |Protocol_type|
+|3 |Service|
+|4 |Flag|
+|5 |Src_bytes|
+|6 |Dst_bytes|
+|7 |Land|
+|8 |Wrong_fragment|
+|9 |Logged_in|
+|10| Count|
+|11| Srv_Count|
+|12| Dst_Host_Count|
+|13| Dst_Host_Srv_Count|
+|14| Dst_Host_Same_Source_Port_Rate|
+|15| Attack|
+
 ## Designing your organization's custom COBIT (2019)
 
 Grijp, S. (2019, March 4). Designing your organization's custom COBIT. COBIT Focus, 1–3. [https://search-ebscohost-com.proxy1.ncu.edu/login.aspx?direct=true&db=bth&AN=135182096&site=ehost-live](https://search-ebscohost-com.proxy1.ncu.edu/login.aspx?direct=true&db=bth&AN=135182096&site=ehost-live). [Custom_COBIT.pdf](Custom_COBIT.pdf).
@@ -14,9 +43,17 @@ The author mostly repeats the content of COBIT_Design and adds a notion of numer
 
 Nazir, S., & Kaleem, M. (2018). Random network coding for secure packet transmission in SCADA networks. 2018 3rd International Conference on Emerging Trends in Engineering, Sciences and Technology (ICEEST), Emerging Trends in Engineering, Sciences and Technology (ICEEST), 2018 3rd International Conference On, 1–4. Karachi, Pakistan, Pakistan. [https://doi-org.proxy1.ncu.edu/10.1109/ICEEST.2018.8643329](https://doi-org.proxy1.ncu.edu/10.1109/ICEEST.2018.8643329). [SecurePacketTransmission_SCADA.pdf](SecurePacketTransmission_SCADA.pdf).
 
+Most SCADA systems are built with the assumption that the network is trusted, and therefore do not require encryption to protect its communication.  One of the challenges with adding encryption after the fact is that SCADA must operate as a real-time system and is highly sensitive to delays.  The authors propose a mechanism for XOR encoding messages for adding a fast layer to hide `modbus protoecol commands`.  
+
+### What critism exists for this approach
+
+While they discuss the value here, other providers such as Amazon Nitro Operating Systems (aka AWS) avoid these issues by offloading the crypto algorithms to dedicated hardware.  The enterprise would need to choose which costing is more critical to the business and if they are willing to accept the additional attack surface of simple XOR messages. 
+
+Another challenge is that it lacks details on the key exhange protocol, stating that the keys start with a preshared key but then change the key at each message.  How does that process remain secure, since the initial message from each system must be reused OR include some known offset (e.g. shared clock) making this security by obsurity.  Whatever the mechanism might be, the obsurity would need to be documented for interop scenarios and thus many challenges with this solution in practice.
+
 ## Managing Information Security Risk Using Integrated Governance Risk and Compliance (2017)
 
-Nicho, M., Khan, S., & Rahman, M. S. M. K. (2017). Managing Information Security Risk Using Integrated Governance Risk and Compliance. 2017 International Conference on Computer and Applications (ICCA), Computer and Applications (ICCA), 2017 International Conference On, 56–66. Doha, United Arab Emirates, United Arab Emirates. [https://doi-org.proxy1.ncu.edu/10.1109/COMAPP.2017.8079741](https://doi-org.proxy1.ncu.edu/10.1109/COMAPP.2017.8079741). 
+Nicho, M., Khan, S., & Rahman, M. S. M. K. (2017). Managing Information Security Risk Using Integrated Governance Risk and Compliance. 2017 International Conference on Computer and Applications (ICCA), Computer and Applications (ICCA), 2017 International Conference On, 56–66. Doha, United Arab Emirates, United Arab Emirates. [https://doi-org.proxy1.ncu.edu/10.1109/COMAPP.2017.8079741](https://doi-org.proxy1.ncu.edu/10.1109/COMAPP.2017.8079741). [IntegratedGovernanceRiskCompliance.pdf](IntegratedGovernanceRiskCompliance.pdf).
 
 ## COBIT Design Factors: A Dynamic Approach to Tailoring Governance in the Era of Digital Disruption (2019)
 

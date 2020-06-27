@@ -55,6 +55,10 @@ Another challenge is that it lacks details on the key exhange protocol, stating 
 
 Nicho, M., Khan, S., & Rahman, M. S. M. K. (2017). Managing Information Security Risk Using Integrated Governance Risk and Compliance. 2017 International Conference on Computer and Applications (ICCA), Computer and Applications (ICCA), 2017 International Conference On, 56–66. Doha, United Arab Emirates, United Arab Emirates. [https://doi-org.proxy1.ncu.edu/10.1109/COMAPP.2017.8079741](https://doi-org.proxy1.ncu.edu/10.1109/COMAPP.2017.8079741). [IntegratedGovernanceRiskCompliance.pdf](IntegratedGovernanceRiskCompliance.pdf).
 
+The authors conducted open interviews across multiple years to build a model for guiding managerial decisions.  When management considers governance, risk, and compliance the resulting outcomes are more fault tolerant and secure.  These are not new concepts though they have traditionally been fragmented into different silos and not accounted for in a holistic unified solution. 
+
+![grc_benefits.png](grc_benefits.png)
+
 ## COBIT Design Factors: A Dynamic Approach to Tailoring Governance in the Era of Digital Disruption (2019)
 
 Rafeq, Abdul (2019, February 4). COBIT Focus. p1-6. 6p. [https://eds-b-ebscohost-com.proxy1.ncu.edu/eds/pdfviewer/pdfviewer?vid=1&sid=4f3fc652-db5c-4e6e-968a-ab8809af0d76%40sessionmgr103](https://eds-b-ebscohost-com.proxy1.ncu.edu/eds/pdfviewer/pdfviewer?vid=1&sid=4f3fc652-db5c-4e6e-968a-ab8809af0d76%40sessionmgr103).  [COBIT_Design.pdf](COBIT_Design.pdf).

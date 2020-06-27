@@ -55,9 +55,13 @@ Another challenge is that it lacks details on the key exhange protocol, stating 
 
 Nicho, M., Khan, S., & Rahman, M. S. M. K. (2017). Managing Information Security Risk Using Integrated Governance Risk and Compliance. 2017 International Conference on Computer and Applications (ICCA), Computer and Applications (ICCA), 2017 International Conference On, 56–66. Doha, United Arab Emirates, United Arab Emirates. [https://doi-org.proxy1.ncu.edu/10.1109/COMAPP.2017.8079741](https://doi-org.proxy1.ncu.edu/10.1109/COMAPP.2017.8079741). [IntegratedGovernanceRiskCompliance.pdf](IntegratedGovernanceRiskCompliance.pdf).
 
-The authors conducted open interviews across multiple years to build a model for guiding managerial decisions.  When management considers governance, risk, and compliance the resulting outcomes are more fault tolerant and secure.  These are not new concepts though they have traditionally been fragmented into different silos and not accounted for in a holistic unified solution. 
+The authors conducted open interviews across multiple years to build a model for guiding managerial decisions.  When management considers governance, risk, and compliance the resulting outcomes are more fault tolerant and secure.  These are not new concepts though they have traditionally been fragmented into different silos and not accounted for in a holistic unified solution.
 
 ![grc_benefits.png](grc_benefits.png)
+
+Under a holistic model, leadership needs to identify the various stakeholders and encorporate their perspectives.  For instance, Program managers have the twelve domains enumerated in the PMBOK.  These role norms influence the approach that they will take toward decisions.  If our overarching strategy includes those expectations then it results in less friction due to using more best practices.
+
+![integrated_governance_model.png](integrated_governance_model.png)
 
 ## COBIT Design Factors: A Dynamic Approach to Tailoring Governance in the Era of Digital Disruption (2019)
 
@@ -82,6 +86,15 @@ COBIT is a general framework of best practices that can be applied to any enterp
 ## Intelligent software platform and end-point software for risk management (2018)
 
 A. Senkov, "Intelligent Software Platform and End-Point Software for Risk Management," 2018 International Multi-Conference on Industrial Engineering and Modern Technologies (FarEastCon), Vladivostok, 2018, pp. 1-5, [https://doi.org/10.1109/FarEastCon.2018.8602702](https://doi.org/10.1109/FarEastCon.2018.8602702). [IntelligentPlatform_EndpointSoftware.pdf](IntelligentPlatform_EndpointSoftware.pdf).
+
+When designing complex distributed systems it can be advantageous to decompose the problem into `endpoints`, then segment the problem into global and local systems.
+
+| System | Description|
+|--------| -----------|
+|Local | Realtime monitoring of local node|
+|Remote| Maintains macro view and knowledge base (e.g., signatures and rules)|
+
+![intell_software_platform.png](intell_software_platform.png)
 
 ## A New COBIT Is in Town and I Really Like How It Looks (2018)
 

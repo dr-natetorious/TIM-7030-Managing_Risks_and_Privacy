@@ -47,7 +47,7 @@ Most SCADA systems are built with the assumption that the network is trusted, an
 
 ### What critism exists for this approach
 
-While they discuss the value here, other providers such as Amazon Nitro Operating Systems (aka AWS) avoid these issues by offloading the crypto algorithms to dedicated hardware.  The enterprise would need to choose which costing is more critical to the business and if they are willing to accept the additional attack surface of simple XOR messages. 
+While they discuss the value here, other providers such as Amazon Nitro Operating Systems (aka AWS) avoid these issues by offloading the crypto algorithms to dedicated hardware.  The enterprise would need to choose which costing is more critical to the business and if they are willing to accept the additional attack surface of simple XOR messages.
 
 Another challenge is that it lacks details on the key exhange protocol, stating that the keys start with a preshared key but then change the key at each message.  How does that process remain secure, since the initial message from each system must be reused OR include some known offset (e.g. shared clock) making this security by obsurity.  Whatever the mechanism might be, the obsurity would need to be documented for interop scenarios and thus many challenges with this solution in practice.
 
@@ -99,7 +99,6 @@ When designing complex distributed systems it can be advantageous to decompose t
 ## A New COBIT Is in Town and I Really Like How It Looks (2018)
 
 Thomas M. A New COBIT Is in Town and I Really Like How It Looks. COBIT Focus. December 2018:1-8. [https://search-ebscohost-com.proxy1.ncu.edu/login.aspx?direct=true&db=bth&AN=133592800&site=eds-live](https://search-ebscohost-com.proxy1.ncu.edu/login.aspx?direct=true&db=bth&AN=133592800&site=eds-live). Accessed June 27, 2020. [New_COBIT.pdf](New_COBIT.pdf).
-
 
 COBIT v5 is the version that previous material in this class and [TIM-8301 CyberSecurity](https://github.com/dr-natetorious/TIM-8301-Principals_of_CyberSecurity) make reference toward.  However, in 2019 the next iteration was released under the creative name of `COBIT 2019`.  Now governance components include the following list:
 

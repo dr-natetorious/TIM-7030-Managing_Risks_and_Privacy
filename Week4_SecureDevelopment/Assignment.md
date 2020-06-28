@@ -4,7 +4,7 @@ NCU-FSB is in the process of implementing an ERP solution for administrative pro
 
 ## Instructions
 
-For this assignment, you must develop a diagram and a technical paper, in which you design a control model for secure development. 
+For this assignment, you must develop a diagram and a technical paper, in which you design a control model for secure development.
 
 Your paper should contain the following:
 

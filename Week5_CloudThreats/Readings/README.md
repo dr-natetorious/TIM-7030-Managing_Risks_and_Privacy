@@ -41,6 +41,19 @@ regulations or create liability.
 
 With the ability to anonymously distribute attack signatures businesses are more likely to participate.  Though there are risks to customer privacy that automated signature collection might include sensitive information, such as the filename `c:\docs\upcoming_smith_jones_merge.docx`.  Organizations that are part of the sharing ring also do not gain additional value by showing there cards, thus the incentives to listen not participate continue to exist.
 
+### How should we approach systematic risk
+
+The authors evangalize the idea of stress tests using:
+
+- Policy reviews
+- Financial models (e.g., Value at Risk (VAR))
+- Governance and control processes (e.g., COBIT)
+- Processes that promote disclosure and transparency
+
 ## Future developments in cyber risk assessment for the internet of things (2018)
 
 Radanliev, P., De Roure, D.C., Nicolescu, R., Huth, M., Mantilla, R., Cannaly, S., & Burnap, P. (2018). Future developments in cyber risk assessment for the internet of things. Computers in Industry Volume 102, November 2018, Pages 14-22. [https://doi.org/10.1016/j.compind.2018.08.002](https://doi.org/10.1016/j.compind.2018.08.002). [FutureRisksIoT.pdf](FutureRisksIoT.pdf).
+
+Cyber-risks are known to exist across cyber-physical systems (CPS) like IoT devices and other connected devices, however there is little consideration how those challenges should be assessed.  Vulnerabilities in these devices present unique situtations that differ from more traditional protection schemes.  The authors propose a model that examines the 'vertical integration' to determine potential risks at the systematic level.
+
+![classification_assessment_requirements.png](classification_assessment_requirements.png)

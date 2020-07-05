@@ -9,16 +9,16 @@ Your presentation must include the following:
 - title, agenda, and references slides
 - Table of industry tools that can be implemented to prevent intrusions or malware attacks.
 - Advantages and issues related to the full implementation of the following mathematical models:
-- access-control matrix model
-- mandatory-access control model
-- discretionary access control model
-- role-based access control model
-- Bell-LaPadula confidentiality model
-- Biba integrity model
-- Lipner model
-- Clark-Wilson model
-- Brewer-Nash (Chinese Wall) models
-- Graham-Denning model
+  - access-control matrix model
+  - mandatory-access control model
+  - discretionary access control model
+  - role-based access control model
+  - Bell-LaPadula confidentiality model
+  - Biba integrity model
+  - Lipner model
+  - Clark-Wilson model
+  - Brewer-Nash (Chinese Wall) models
+  - Graham-Denning model
 
 Include speaker notes on each slide to assist with the delivery of the presentation.  Use the Record Audio feature in PowerPoint to record your presentation of each slide
 
@@ -28,9 +28,9 @@ Resources: Minimum of 5 scholarly resources
 
 ## Assignment 2: Propose Strategies and Tools for Cloud Security
 
-The use of security information event management (SIEM) software detected that a malware attack originated from an international source. As the cybersecurity analyst of NCU-FSB with critical infrastructure and mission-sensitive information, you have determined that the external hackers have the motivation to cause business disruption. The virus penetrated the enterprise’s IT infrastructure, infecting servers, desktops, and laptops; destroying information; and spreading ransomware. The payload of the virus deleted mission-critical files and changed file extensions for all database files.
+The use of security information event management (SIEM) software detected that a malware attack originated from an international source. As the cybersecurity analyst of NCU-FSB with critical infrastructure and mission-sensitive information, you have determined that the external hackers have the motivation to cause business disruption. The virus penetrated the enterprise's IT infrastructure, infecting servers, desktops, and laptops; destroying information; and spreading ransomware. The payload of the virus deleted mission-critical files and changed file extensions for all database files.
 
-The attacks have crippled the organization’s ability to make timely business decisions. Further investigation of logs using a security information event management application revealed that there had been significant internal attacks including sniffing, MAC spoofing, WEP/WPA cracking, AP spoofing, and DoS of the company resources due to the weak wireless infrastructure. These attacks have weakened the security posture of the organization.
+The attacks have crippled the organization's ability to make timely business decisions. Further investigation of logs using a security information event management application revealed that there had been significant internal attacks including sniffing, MAC spoofing, WEP/WPA cracking, AP spoofing, and DoS of the company resources due to the weak wireless infrastructure. These attacks have weakened the security posture of the organization.
 
 ### Instructions
 

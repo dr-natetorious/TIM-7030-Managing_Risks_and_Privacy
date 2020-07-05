@@ -6,9 +6,9 @@ Small businesses also face some dilemmas in terms of what guidelines they must f
 
 These days, more sophisticated malware code or intrusion software is invading systems, especially emails. These attacks can be devastating to organizations because they can affect the confidentiality, integrity, and availability of network data and resources. Wireless attacks are often seen as one of the greatest threats; therefore, understanding strategies network professionals can use to mitigate these attacks is essential in an environment that offers wireless services and must be an essential part of the corporate risk management plan.
 
-An organization must continually work toward an alignment that fits into the organization’s business strategy. This alignment should improve the likelihood that IT initiatives are explicitly linked to areas that are critical to successful business performance, provide a source of competitive advantage and ensure ethical compliance. These must form the basis for proper application modeling parameter setting, configuration, and overall systems and network best practices for data and information processing.
+An organization must continually work toward an alignment that fits into the organization's business strategy. This alignment should improve the likelihood that IT initiatives are explicitly linked to areas that are critical to successful business performance, provide a source of competitive advantage and ensure ethical compliance. These must form the basis for proper application modeling parameter setting, configuration, and overall systems and network best practices for data and information processing.
 
-Review the resources listed below (and previously provided resources, as needed) to prepare for this week’s assignments. The resources may include textbook reading assignments, journal articles, websites, links to tools or software, videos, handouts, rubrics, etc.
+Review the resources listed below (and previously provided resources, as needed) to prepare for this week's assignments. The resources may include textbook reading assignments, journal articles, websites, links to tools or software, videos, handouts, rubrics, etc.
 
 ## Reference
 

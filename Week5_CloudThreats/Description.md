@@ -12,4 +12,4 @@ Review the resources listed below (and previously provided resources, as needed)
 
 ## Reference
 
-Fonseca, S., & Ramaswamy, M. (2014). Information technology architecture for optimal reporting. Issues in Information Systems. 2014. 15(1): 224-234.
+Fonseca, S., & Ramaswamy, M. (2014). Information technology architecture for optimal reporting. Issues in Information Systems. 2014. 15(1): 224-234. [https://search-ebscohost-com.proxy1.ncu.edu/login.aspx?direct=true&db=edsdoj&AN=edsdoj.5cbbebb4b672422b8f2eddb5c4bf038f&site=eds-live](https://search-ebscohost-com.proxy1.ncu.edu/login.aspx?direct=true&db=edsdoj&AN=edsdoj.5cbbebb4b672422b8f2eddb5c4bf038f&site=eds-live).

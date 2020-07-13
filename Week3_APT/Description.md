@@ -3,6 +3,7 @@
 An enterprise security governance program consists primarily of a set of rules, procedures, and standards that a company implements and manages as part of the corporate security strategy. The purpose is to reduce risk caused by threats and vulnerabilities and to enact the assurance programs to ensure a reliable security information technology landscape in compliance with applicable laws and regulations.
 
 Best Practices for Information Systems Processing:
+
 - Confidentiality
 - Integrity
 - Communication
@@ -29,7 +30,6 @@ Some common issues most IT departments have faced or are dealing with are:
 - Deficiencies in cabling structures and wiring closets identification standards
 - Lack of or outdated antivirus, intrusion detection, intrusion prevention, and malware software, and monitoring practices
 - Improper or missing network and application documentation
- 
 
 The process of information security governance sets the path to follow for control setting, user awareness, and decision-making in information technology. The information security and/or risk management team is responsible for developing the framework to follow as part of the risk management program. This program needs to be evaluated and approved by the information steering committee or information security governance council, a committee or council composed of department managers and appointed stewards who will oversee the implementation and management of the corporate security and risk management program in support of the integrity and transparency of process, service, or supply chain flow.
 

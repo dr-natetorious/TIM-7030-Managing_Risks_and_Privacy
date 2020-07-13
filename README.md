@@ -16,3 +16,12 @@ Notes and papers on managing risk, security, and privacy in information systems.
 - [Week 2](Week2_RiskManagement/BachmeierNTIM7030-2.pptx): Importance of Risk Mitigation Strategies
 - [Week 3](Week3_APT/BachmeierNTIM7030-3.pptx): Governance, Policies, and Standards
 - [Week 5](Week5_CloudThreats/BachmeierNTIM7030-5.pptx): Threat Prevent and Response Solutions
+
+## Annotated Bibliographies
+
+- [Week 1](Week1_RiskAssessment/Readings): Assessing Risk and Information Discovery
+- [Week 2](Week2_RiskManagement/Readings): Risk Reduction Techniques for Perimeter Protection
+- [Week 3](Week3_APT/Readings): Governance, Risk, Compliance, and APT
+- [Week 4](Week4_SecureDevelopment/Readings): Control Structure for Secure Database and Software Development
+- [Week 5](Week5_CloudThreats/Readings): Ethics and Cyber-Espionage Prevention and Management
+- [Week 6](Week6_VulnerabilityAssess/Readings): Vulnerability Assessments for Perimeter Protection

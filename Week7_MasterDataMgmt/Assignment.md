@@ -9,9 +9,20 @@ For this assignment, you must research mobile device management (MDM) tools for 
 Your presentation should include the following:
 
 - Title, introduction, conclusion, and references
-- Introduction on privacy management in a cloud and mobile environment. Focus on legal mandates, such as General Data Protection Regulation (GDPR), Sarbanes-Oxley (SOX), HIPAA, HITECH and Omnibus Rule for electronic health patient record privacy protection, FERPA rule, and many others that now requires control structures be established to protect data integrity and security when transmitted over the cloud.
-  - Research on risks associated with mobile device management.
-  - Analysis of the security framework in terms of:
+- Introduction on privacy management in a cloud and mobile environment.
+- Focus on legal mandates such as: 
+  - General Data Protection Regulation (GDPR),
+  - Sarbanes-Oxley (SOX), 
+  - HIPAA, 
+  - HITECH and 
+  - Omnibus Rule for electronic health patient record privacy protection, 
+  - FERPA rule, 
+  - and many others that now requires 
+    - control structures be established 
+    - to protect data integrity 
+    - and security when transmitted over the cloud.
+- Research on risks associated with mobile device management.
+- Analysis of the security framework in terms of:
   - How it addresses attacks on mobile devices
   - Benchmark on MDM tools—recommend one with justification for your selection
   - Framework of recommended mitigation strategies on privacy concerns

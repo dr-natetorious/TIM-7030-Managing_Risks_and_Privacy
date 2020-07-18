@@ -1,5 +1,13 @@
 # Readings
 
+## What is Master Data Management (2010)
+
+Intricity101 (2010). What is Master Data Management. YouTube. [https://www.youtube.com/watch?v=h3LamD_K1vI](https://www.youtube.com/watch?v=h3LamD_K1vI).
+
+Numerous business datasets, like customer metadata, must be shared across the organization, and this creates challenges around synchronization and change management.  For instance, customer billing information might be flow between the different offices but contain a typographical error in the address.  While some departments might detect and correct this, not everyone is aware of the discrepency and the correction leads to drift.
+
+MDM solutions address these challenges by creating a focal point that exposes the single source of truth.  Then downstream solutions can periodically assess their data consistency to calculate a data quality score.  When the score is regresses, automation must schedule remediation processes to correct the problem.
+
 ## Examining the importance of data governance in healthcare (2018)
 
 Fuller, S. (2018). Examining the importance of data governance in healthcare. Journal of AHIMA, 89(10), 42–44. [https://search-ebscohost-com.proxy1.ncu.edu/login.aspx?direct=true&db=ccm&AN=132280045](https://search-ebscohost-com.proxy1.ncu.edu/login.aspx?direct=true&db=ccm&AN=132280045). [GovernanceHealthcare.pdf](GovernanceHealthcare.pdf).
@@ -22,7 +30,21 @@ After building these models and their various levels of compliance assertions, t
 
 Ng, S.T., Xu, F. G., Yang, Y., & Lu, M. (2017). A master data management solution to unlock the value of big infrastructure data for smart, sustainable and resilient city planning. Procedia Engineering Volume 196, 2017, Pages 939-947. [https://doi.org/10.1016/j.proeng.2017.08.034](https://doi.org/10.1016/j.proeng.2017.08.034). [MDM_BigInfra.pdf](MDM_BigInfra.pdf).
 
-Many metropolitan areas are investing heavily in smart city technologies and IoT deployments.  While it is relatively simple to create an individual system (e.g., smart street lights), challenges incorporating these ideas across the verticle and horizontal landscapes exist.  These issues occur because sharing information is across heterogeneous domains is inheritently complex.  Similar ideas are discussed in [TIM-7010: Networking and Mobile: Week 7](https://github.com/dr-natetorious/TIM-7010-Computer_Networks_and_Mobile_Computing/tree/master/Section_4_Application/Week7_Darpa_SmartCity).
+Many metropolitan areas are investing heavily in smart city technologies and IoT deployments (see: [TIM-7010: Networking and Mobile: Week 7](https://github.com/dr-natetorious/TIM-7010-Computer_Networks_and_Mobile_Computing/tree/master/Section_4_Application/Week7_Darpa_SmartCity)).  While it is relatively simple to create an individual system (e.g., smart street lights) or share information across an industry verticle, challenges exist across horizontal landscapes.  These horizontal industries use different business models to describe their processes and these distinctions create issues across integrations. 
+
+### What are the components of a Smart Infrastructure Asset Management (SIAM-MDM)
+
+The following process components are described in detail on page 942-4.
+
+1. Develop a strategy that aligns with the policies and norms of the existing city
+2. Establish metrics and measurements of success within the model
+3. Devise an information governance mechanism
+4. Optimize existing IAM processes to incorporate cross-department stakeholders
+5. Formulate lifecycle management processes
+6. Build/Purchase and deploy an MDM solution that integrates into the information architecture
+7. Mature the processes through a formal assessment and growth framework
+
+![siam_mdm.png](siam_mdm.png)
 
 ## Privacy Behaviors After Snowden (2015)
 

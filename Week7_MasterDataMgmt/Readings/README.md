@@ -22,6 +22,8 @@ After building these models and their various levels of compliance assertions, t
 
 Ng, S.T., Xu, F. G., Yang, Y., & Lu, M. (2017). A master data management solution to unlock the value of big infrastructure data for smart, sustainable and resilient city planning. Procedia Engineering Volume 196, 2017, Pages 939-947. [https://doi.org/10.1016/j.proeng.2017.08.034](https://doi.org/10.1016/j.proeng.2017.08.034). [MDM_BigInfra.pdf](MDM_BigInfra.pdf).
 
+Many metropolitan areas are investing heavily in smart city technologies and IoT deployments.  While it is relatively simple to create an individual system (e.g., smart street lights), challenges incorporating these ideas across the verticle and horizontal landscapes exist.  These issues occur because sharing information is across heterogeneous domains is inheritently complex.  Similar ideas are discussed in [TIM-7010: Networking and Mobile: Week 7](https://github.com/dr-natetorious/TIM-7010-Computer_Networks_and_Mobile_Computing/tree/master/Section_4_Application/Week7_Darpa_SmartCity).
+
 ## Privacy Behaviors After Snowden (2015)
 
 Preibusch S (2015). Privacy Behaviors After Snowden. Communications of the ACM. 2015;58(5):48-55. [https://doi.org:10.1145/2663341](https://doi.org:10.1145/2663341). [PrivacyAfterSnowden.pdf](PrivacyAfterSnowden.pdf).

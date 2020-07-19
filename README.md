@@ -16,6 +16,7 @@ Notes and papers on managing risk, security, and privacy in information systems.
 - [Week 2](Week2_RiskManagement/BachmeierNTIM7030-2.pptx): Importance of Risk Mitigation Strategies
 - [Week 3](Week3_APT/BachmeierNTIM7030-3.pptx): Governance, Policies, and Standards
 - [Week 5](Week5_CloudThreats/BachmeierNTIM7030-5.pptx): Threat Prevent and Response Solutions
+- [Week 7](Week7_MasterDataMgmt/BachmeierNTIM7030-7.pptx): Mobile Device Management
 
 ## Annotated Bibliographies
 

@@ -27,7 +27,6 @@ Unified Endpoint Management (UEM) addresses these issues by creating an abstract
 - MobileIron (2020). How does MobileIron Work. MobileIron. [https://youtu.be/xTe6lFL4Cek](https://youtu.be/xTe6lFL4Cek).
 - Chris Silva, Manjunath Bhat, Rich Doheny, Rob Smith (2019). Magic Quadrant for Unified Endpoint Management Tools. Gartner. [https://www.gartner.com/doc/reprints?id=1-1ODRVFHP&ct=190812&st=sb](https://www.gartner.com/doc/reprints?id=1-1ODRVFHP&ct=190812&st=sb). [Gartner_UnifiedEndpointManagement.pdf](Gartner_UnifiedEndpointManagement.pdf).
 
-
 ## Risks from Mobile Device Management
 
 ERM Initative Faculty (2014). Managing Risks of the Mobile Enterprise. NC State: Enterprise Risk Management Initiative. [https://erm.ncsu.edu/library/article/manage-risks-mobile-enterprise](https://erm.ncsu.edu/library/article/manage-risks-mobile-enterprise). [ManagingRisks_MobileEnterprise.pdf](ManagingRisks_MobileEnterprise.pdf).

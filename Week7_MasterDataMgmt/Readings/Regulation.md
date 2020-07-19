@@ -9,7 +9,7 @@ The European regulation creates the legislative teeth necessary to ensure busine
 
 ## What is SOX
 
-In 2002, a number of accounting scandals rocked the financial world (e.g. Enron and WorldCom), resulting in regulation to create audit records and emphasis on internal controls.
+In 2002, a number of accounting scandals rocked the financial world (e.g. Enron and WorldCom), resulting in regulation to create audit records and an emphasis on internal controls.
 
 - Taxicologist (2016). Introduction to SOX and Internal Controls. YouTube. [https://www.youtube.com/watch?v=8KhGtdv3gC8](https://www.youtube.com/watch?v=8KhGtdv3gC8).
 - [MGT-521: Management: Week 5](https://github.com/dr-natetorious/MGT-521_Management/blob/master/Week5_Controlling/Regulation.md): How SOX Changed Corporate Governance.

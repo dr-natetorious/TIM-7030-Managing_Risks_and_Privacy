@@ -6,7 +6,7 @@ AT&T Business (2018). What is Mobile Device Management.  AT&T Business Services.
 
 ## The Value of Unified Endpoint Management (2018)
 
-Tarzey B. The Value of Unified Endpoint Management. Computer Weekly. August 2018:16. [https://search-ebscohost-com.proxy1.ncu.edu/login.aspx?direct=true&db=edb&AN=131123396&site=eds-live](https://search-ebscohost-com.proxy1.ncu.edu/login.aspx?direct=true&db=edb&AN=131123396&site=eds-live). Accessed July 18, 2020.[ValueUnifiedEndpointManagement.pdf](ValueUnifiedEndpointManagement.pdf)
+Tarzey B. The Value of Unified Endpoint Management. Computer Weekly. August 2018:16. [https://search-ebscohost-com.proxy1.ncu.edu/login.aspx?direct=true&db=edb&AN=131123396&site=eds-live](https://search-ebscohost-com.proxy1.ncu.edu/login.aspx?direct=true&db=edb&AN=131123396&site=eds-live).[ValueUnifiedEndpointManagement.pdf](ValueUnifiedEndpointManagement.pdf)
 
 Legacy device management encounters numerous challenges due to variability to system design, requiring administrators to use a variety of tools or standardize the enterprise on a one-size-fits-some single product line.While this strategy was not ideal it became impossible with the evolution of BYOD, which saw employees insist on personalized equipment.
 
@@ -51,11 +51,10 @@ Yamin, M; Katt, B (2019). Mobile device management (MDM) technologies, issues an
 
 Jackson, N.; Walshe, P. (2013). Accountability Framework for the implementation of the GSMA Privacy Design Guidelines for Mobile App Development. Global System for Mobile Communications Association. [https://www.gsma.com/publicpolicy/wp-content/uploads/2013/01/Accountability-framework-final.pdf](https://www.gsma.com/publicpolicy/wp-content/uploads/2013/01/Accountability-framework-final.pdf). [GSMA_MobilePrivacy.pdf](GSMA_MobilePrivacy.pdf).
 
-> The five elements of accountability outlined by the Center for Information Policy and Leadership (CIPL) are considered as a good starting point to build a robust accountability framework. These five elements are common
-in other proposals and business practices and include:
+> The five elements of accountability outlined by the Center for Information Policy and Leadership (CIPL) are considered as a good starting point to build a robust accountability framework. These five elements are common in other proposals and business practices and include:
 
 1. Organisational commitment to accountability and adoption of internal policies (consistent with the Guidelines).
-2. Mechanisms to put privacy policies into effect, including tools, training and education. 
+2. Mechanisms to put privacy policies into effect, including tools, training and education.
 3. Systems for internal, ongoing oversight and assurance reviews (and external facing verification).
 4. Transparency and mechanisms for individual participation.
 5. Means for remediation and enforcement.

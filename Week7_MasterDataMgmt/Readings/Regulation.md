@@ -27,7 +27,7 @@ In 1996, the Health Insurance Portability and Accountability Act, came into exis
 
 In 2009, the Health Information Technology for Economic and Clinical Health Act, removes loop-holes in HIPAA compliance and forces medical facilities to adopt Electronic Medical Records (EMR).  In several articles mentions of HIPAA are often accompanying by HITECH.
 
-- HIPPA Journal (2014). What is the HITECH Act.  HIPAA Journal. [https://www.hipaajournal.com/what-is-the-hitech-act/](https://www.hipaajournal.com/what-is-the-hitech-act/).
+- HIPAA Journal (2014). What is the HITECH Act.  HIPAA Journal. [https://www.hipaajournal.com/what-is-the-hitech-act/](https://www.hipaajournal.com/what-is-the-hitech-act/).
 
 ## What is Omnibus Rule
 

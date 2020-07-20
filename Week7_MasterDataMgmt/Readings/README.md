@@ -16,7 +16,7 @@ Traditional data governance relies on protecting information within an applicati
 
 ## Incremental checking of Master Data Management model based on contextual graphs (2015)
 
-Lamolle M, Menet L, Le Duc C. Incremental checking of Master Data Management model based on contextual graphs. Enterprise Information Systems. 2015;9(7):681-708. [https://doi.org/10.1080/17517575.2013.792395](https://doi.org/10.1080/17517575.2013.792395). [IncrementalCheckingMasterData.pdf](IncrementalCheckingMasterData.pdf).
+Lamolle, M; Menet, L; Le Duc, C (2015). Incremental checking of Master Data Management model based on contextual graphs. Enterprise Information Systems. 2015;9(7):681-708. [https://doi.org/10.1080/17517575.2013.792395](https://doi.org/10.1080/17517575.2013.792395). [IncrementalCheckingMasterData.pdf](IncrementalCheckingMasterData.pdf).
 
 Ensuring proper controls around data lifecycle is complex when those controls must span various technology stacks.  Further complicating matters are mobile device management (MDM) and bring your own device (BYOD) situtations as the system administrators (e.g., random employee) and data administrators (e.g., IT staff) are different people.  The data administrators can _create governance but not force policies_ on these platforms, resulting is gaps in the management strategies.
 
@@ -50,7 +50,7 @@ The following process components are described in detail on page 942-4.
 
 Preibusch S (2015). Privacy Behaviors After Snowden. Communications of the ACM. 2015;58(5):48-55. [https://doi.org:10.1145/2663341](https://doi.org:10.1145/2663341). [PrivacyAfterSnowden.pdf](PrivacyAfterSnowden.pdf).
 
-PRISM Day, June 6th, 2013, is the point that mainstream media began discussing the Snowden leaks about the National Security Administration (NSA) program to spy on globl internet communications.  Using a collection of search engine query trend analysis, the authors examine the longitudinal influence across the American.  There was initially a spike in interest that degrades over the following weeks.  Other stories such as the Royal Baby took over the limelight, and pushed these storys into the background.  However, there is a measurable influence of focus on corporate privacy statements suggesting that its not entirely forgotten. 
+PRISM Day, June 6th, 2013, is the point that mainstream media began discussing the Snowden leaks about the National Security Administration (NSA) program to spy on globl internet communications.  Using a collection of search engine query trend analysis, the authors examine the longitudinal influence across the American.  There was initially a spike in interest that degrades over the following weeks.  Other stories such as the Royal Baby took over the limelight, and pushed these storys into the background.  However, there is a measurable influence of focus on corporate privacy statements suggesting that its not entirely forgotten.
 
 ## Towards a service architecture for master data exchange (2017)
 

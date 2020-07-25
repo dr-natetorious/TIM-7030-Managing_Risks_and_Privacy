@@ -10,6 +10,7 @@ Notes and papers on managing risk, security, and privacy in information systems.
 - [Week 4](Week4_SecureDevelopment/BachmeierNTIM7030-4.docx): Incorporating Risk Management into Secure Development
 - [Week 5](Week5_CloudThreats/BachmeierNTIM7030-5.docx): Strategies and Tools for Cloud Security
 - [Week 6](Week6_VulnerabilityAssess/BachmeierNTIM7030-6.docx): Creating Vulnerability Assessments
+- [CAPSTONE](Week8_OrgRiskMgmtPlan/BachmeierNTIM7030-8.docx): Designing a Corporate Risk Management Plan
 
 ## Presentations
 
@@ -26,3 +27,5 @@ Notes and papers on managing risk, security, and privacy in information systems.
 - [Week 4](Week4_SecureDevelopment/Readings): Control Structure for Secure Database and Software Development
 - [Week 5](Week5_CloudThreats/Readings): Ethics and Cyber-Espionage Prevention and Management
 - [Week 6](Week6_VulnerabilityAssess/Readings): Vulnerability Assessments for Perimeter Protection
+- [Week 7](Week7_MasterDataMgmt/Readings): Master Data and Mobile Device Management
+- [Week 8](Week8_OrgRiskMgmtPlan/Readings): Integrated Governance and Privacy Management

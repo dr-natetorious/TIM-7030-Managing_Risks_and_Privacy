@@ -4,13 +4,28 @@
 
 Abdullah H; Labuschagne L; Young J (2016). A conceptual framework for integrated information privacy protection. 2016 International Conference on Advances in Computing and Communication Engineering (ICACCE), Advances in Computing and Communication Engineering (ICACCE), 2016 International Conference on. November 2016:242-248. [https://doi.org/10.1109/ICACCE.2016.8073755](https://doi.org/10.1109/ICACCE.2016.8073755). [Integrated_Info_Privacy.pdf](Integrated_Info_Privacy.pdf).
 
+Governance, risk and compliance (GRC) _is an integrated approach overseeing people, processes and technology in order to deliver stakeholder value while managing risk and complying with regulations and laws_.
+
+![grc_components.png](grc_components.png)
+
+## Four ethical issues of the information age (1986)
+
+R. O. Mason, "Four ethical issues of the information age," MIS Quarterly, vol. 10, pp. 5-12, 1986. 
+Mason, Richard. (1986). Four Ethical Issues of the Information Age. Management Information Systems Quarterly - MISQ. 10. [https://doi.org/10.2307/248873](https://doi.org/10.2307/248873). [Four_Ethical_Issues_of_the_Information_Age.pdf](Four_Ethical_Issues_of_the_Information_Age.pdf).
+
+In 1986, espoused that the Information Age would lead to four major concerns regarding the use of information, namely, privacy, accuracy, property and accessibility (PAPA).
+
 ## Security in cloud computing (2015)
 
 Ali, M.; Khan, S. U.; Vasilakos, A. V. (2015, June 1). Security in cloud computing: Opportunities and challenges. Information Science, Volume 305, 1 June 2015, Pages 357-383. [https://doi.org/10.1016/j.ins.2015.01.025](https://doi.org/10.1016/j.ins.2015.01.025). [SecurityCloudComputing.pdf](SecurityCloudComputing.pdf).
 
 ## Governance practices and critical success factors suitable for business information security (2015)
 
-Bobbert Y; Mulder H (2015). Governance Practices and Critical Success Factors Suitable for Business Information Security. 2015 International Conference on Computational Intelligence and Communication Networks (CICN), Computational Intelligence and Communication Networks (CICN), 2015 International Conference on, Computational Intelligence and Communication Networks, International Conference on. December 2015:1097-1104. [https://doi.org/10.1109/CICN.2015.216](https://doi.org/10.1109/CICN.2015.216). [GovernancePractices.pdf](GovernancePractices.pdf).
+Bobbert Y; Mulder H (2015). Governance practices and critical success factors suitable for business information security. 2015 International Conference on Computational Intelligence and Communication Networks (CICN), Computational Intelligence and Communication Networks (CICN), 2015 International Conference on, Computational Intelligence and Communication Networks, International Conference on. December 2015:1097-1104. [https://doi.org/10.1109/CICN.2015.216](https://doi.org/10.1109/CICN.2015.216). [GovernancePractices.pdf](GovernancePractices.pdf).
+
+Failures with information security impact ask aspects of the business, and this makes `Business Security` an issue for all members of the organization.  Many companies address these issues by only focusing on cybersecurity technological controls such as firewalls and antivirus.  However, it is also important to include `governance controls` through policies, continuity planning, and legal compliance.  
+
+As more stakeholder perspectives come into consideration, the solution becomes more mature and holistic across  _people, processes, and products against both negligent and malicious sources_.
 
 ## The Role of Intelligence in Corporate Security (2018)
 

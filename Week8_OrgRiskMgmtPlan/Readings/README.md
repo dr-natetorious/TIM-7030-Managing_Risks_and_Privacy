@@ -16,6 +16,14 @@ Bobbert Y; Mulder H (2015). Governance Practices and Critical Success Factors Su
 
 Brennan, J. J. (2018). The Role of Intelligence in Corporate Security. Security: Solutions for Enterprise Security Leaders, 55(4), 22. [https://search-ebscohost-com.proxy1.ncu.edu/login.aspx?direct=true&db=bth&AN=128773504&site=eds-live](https://search-ebscohost-com.proxy1.ncu.edu/login.aspx?direct=true&db=bth&AN=128773504&site=eds-live). [Intelligence_CorpSec.pdf](Intelligence_CorpSec.pdf).
 
+This short article discusses the challenges of organizations keeping pace with the evolving threat intelligence, and then staffing appropriately.  The author calls out the need for experts in the following areas:
+
+- Emerging Cyberthreats
+- Geo-political risks
+- Due diligence
+- Competitive information
+- Counter intelligence 
+
 ## Information security governance: pending legal responsibilities of non-executive boards (2017)
 
 Georg, L. (2017). Information security governance: pending legal responsibilities of non-executive boards. Journal of Management & Governance, 21(4), 793–814. [https://doi-org.proxy1.ncu.edu/10.1007/s10997-016-9358-0](https://doi-org.proxy1.ncu.edu/10.1007/s10997-016-9358-0). [LegalResponsibilities.pdf](LegalResponsibilities.pdf).
@@ -23,6 +31,16 @@ Georg, L. (2017). Information security governance: pending legal responsibilitie
 ## Risk Management for Information Security of Corporate Information Systems Using Cloud Technology (2018)
 
 Kozlov, A. D., & Noga, N. L. (2018). Risk Management for Information Security of Corporate Information Systems Using Cloud Technology. 2018 Eleventh International Conference “Management of Large-Scale System Development” (MLSD, Management of Large-Scale System Development (MLSD), 2018 Eleventh International Conference, 1–5. [https://doi-org.proxy1.ncu.edu/10.1109/MLSD.2018.8551947](https://doi-org.proxy1.ncu.edu/10.1109/MLSD.2018.8551947). [RiskMgmtCloudTech.pdf](RiskMgmtCloudTech.pdf).
+
+Businesses that can produce the most using the least resources are more competitive, and these cost savings can come at odds with security other best practices.  Some leaders believe that its not economically possible to remove every risk so, there's no point in prioritizing these efforts.  However, this finite budget instead should promote the idea of finding the most critical and impactful items first.   
+
+### How can fuzzy logic help prioritization
+
+The authors propose clustering threats into different prioritized buckets, using fuzzy logic.  Fuzzy logic applies the function `belonging(item,set) => [0..1]`  to determine the probability membership.  Then using discrete mathematics and set theory the results can be union, intersect, etc.
+
+This article calculates the belonging score by calculating the impact of a given resource in terms of probability scores across `(confidentiality, integrity, availability)`--  used as `belonging(...) => max(c,i,a)`.  The probabilities might originate from a custom model (e.g., Expected value) or general solution like the  _Common Vulnerability Scoring System General vulnerability assessment system_.
+
+> It should be noted that there are many different methods of information security risk analysis both at the  qualitative level, for example, OCTAVE, FRAP, and in quantitative terms, for example, Risk Watch, as well as in the mixed version, for example, CRAMM or Microsoft (pg. 4).
 
 ## Cloud forensics: Technical challenges, solutions and comparative analysis (2015)
 

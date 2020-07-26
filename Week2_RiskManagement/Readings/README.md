@@ -6,7 +6,7 @@ Busby JS, Green B, Hutchison D. Analysis of Affordance, Time, and Adaptation in 
 
 ## Components and challenges of integrated cyber risk management (2015)
 
-Kosub T. Components and challenges of integrated cyber risk management. Zeitschrift für die gesamte Versicherungswissenschaft. 2015;104(5):615. [https://doi.org/10.1007/s12297-015-0316-8](https://doi.org/10.1007/s12297-015-0316-8). Accessed June 9, 2020. [ComponentsChallengesIntegration.pdf](ComponentsChallengesIntegration.pdf).
+Kosub T (2015). Components and challenges of integrated cyber risk management. Zeitschrift für die gesamte Versicherungswissenschaft. 2015;104(5):615. [https://doi.org/10.1007/s12297-015-0316-8](https://doi.org/10.1007/s12297-015-0316-8). Accessed June 9, 2020. [ComponentsChallengesIntegration.pdf](ComponentsChallengesIntegration.pdf).
 
 ## Cyber Gurus’: A rhetorical analysis of the language of cybersecurity specialists and the implications for security policy and critical infrastructure protection (2015)
 

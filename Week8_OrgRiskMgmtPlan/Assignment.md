@@ -7,8 +7,8 @@ For the final assignment, you must design a corporate risk management plan for N
  The format for the plan must be as follows:
 
 - Introduction – State of the Organization
-  - corporate management of systems and applications
-  - threats every organization or institution faces in the era of mobile and cloud computing
+  - Corporate management of systems and applications
+  - Threats every organization or institution faces in the era of mobile and cloud computing
   - Organizational chart
   - Network diagram
 - Objectives of the Risk Management Plan – Risk Statement with a definition of IT emergencies, ranking the nature of incidents—whether they are natural, technical, human resources, or cyber-threats.

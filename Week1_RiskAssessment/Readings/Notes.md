@@ -18,8 +18,7 @@ Hsiao, C., Ruffino, M., Malak, R., Tumer, I. Y., & Doolen, T. (2016). Discoverin
 
 ## Risk Management Framework for Information Systems and Organizations (2018)
 
-National Institute for Standards and Technology (NIST). (2018). NIST Special Publication 800-37 Rev. 2. Risk Management Framework for
-Information Systems and Organizations. [https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-37r2.pdf](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-37r2.pdf). [NIST.SP.800-37r2.pdf](NIST.SP.800-37r2.pdf).
+National Institute for Standards and Technology (NIST). (2018). NIST Special Publication 800-37 Rev. 2. Risk Management Framework for Information Systems and Organizations. [https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-37r2.pdf](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-37r2.pdf). [NIST.SP.800-37r2.pdf](NIST.SP.800-37r2.pdf).
 
 ## Cyber-Defense: A Taxonomy of Tactics for Managing Cyberstalking (2017)
 
